@@ -7,7 +7,7 @@ More than a voice — a character designed for everyday conversations.
 
 Kasandra ENG is a custom English female voice model for Piper TTS, created for Home Assistant, Wyoming Piper, and local AI assistant projects. The focus of this project is natural pacing, expressive intonation, and long-form speech quality rather than generic text-to-speech output.
 
-## Demo & Download
+## Download
 
 Support the project and download the latest release:
 
